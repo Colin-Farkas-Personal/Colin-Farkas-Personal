@@ -4,7 +4,7 @@
 
 ### Work Stack
 ```ts 
-const programmingLanguages = [`ReactJs`, `VueJs`]
+const techStack = [`ReactJs`, `VueJs`]
 ```
 
 ### Connect
