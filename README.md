@@ -4,7 +4,7 @@
 
 ### Work Stack
 ```ts 
-const techStack = [`ReactJs`, `VueJs`]
+const techStack = [`ReactJs`, `VueJs`, `TypeScript`, `GraphQl`]
 ```
 
 ### Connect
